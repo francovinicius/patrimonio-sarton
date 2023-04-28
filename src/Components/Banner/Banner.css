@@ -1,0 +1,11 @@
+:root {
+    --texto-banner: #fff;
+}
+
+.banners{
+margin-bottom: 5rem;
+}
+
+.banners p, .banners h5 {
+    color: var(--texto-banner);
+}
