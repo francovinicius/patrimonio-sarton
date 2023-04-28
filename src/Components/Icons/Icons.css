@@ -1,3 +1,8 @@
+.div-central {
+    flex-wrap: wrap;
+    width: 100%;
+}
+
 .categoria-icon {
     margin: auto 1rem 5rem 1rem;
     width: 6rem;
@@ -11,4 +16,9 @@
     font-size: 12px;
     color: aliceblue;
     font-weight: 500;
+}
+
+.margin {
+    border-bottom: 1px solid gray;
+    
 }
