@@ -6,13 +6,15 @@ import Header from "./Components/Header"
 import Banner from "./Components/Banner"
 import Contacts from "./Components/Contacts";
 import Footer from "./Components/Footer";
+import Icons from "./Components/Icons";
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <BrowserRouter>
     <Header />
     <Banner />
-
+    
+    <Icons />
 
     <Contacts />
     <Footer />

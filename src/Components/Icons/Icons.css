@@ -1,0 +1,14 @@
+.categoria-icon {
+    margin: auto 1rem 5rem 1rem;
+    width: 6rem;
+    height: 6rem;
+    background: #27373f;
+    border-radius: 50%;
+}
+
+.categoria-icon a {
+    margin-left: .7rem;
+    font-size: 12px;
+    color: aliceblue;
+    font-weight: 500;
+}
