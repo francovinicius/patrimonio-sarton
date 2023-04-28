@@ -19,6 +19,7 @@
 }
 
 .margin {
-    border-bottom: 1px solid gray;
+    border-top: 1px solid #00000070;
+    width: 95%;
     
 }

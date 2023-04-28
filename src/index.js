@@ -7,14 +7,19 @@ import Banner from "./Components/Banner"
 import Contacts from "./Components/Contacts";
 import Footer from "./Components/Footer";
 import Icons from "./Components/Icons";
+import Category from "./Components/Category";
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <BrowserRouter>
     <Header />
     <Banner />
-    
+
     <Icons />
+    
+    <Routes>
+        <Route path="/" element={<Category/>}/>
+    </Routes>
 
     <Contacts />
     <Footer />

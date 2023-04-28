@@ -9,6 +9,10 @@
     color: azure;
 }
 
+h2 {
+  margin-top: 2rem;
+}
+
 .input-escondido {
     display: none;
 }
