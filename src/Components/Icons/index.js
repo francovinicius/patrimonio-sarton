@@ -6,28 +6,21 @@ export default function Icons() {
 
             <div className="div-icon d-flex flex-column justify-content-center align-items-center">
                 <a className="" href="/">
-                    <img src="./assets/img/logo.svg" alt="Logo Sarton" width="100" height="40" />
+                    <img src="./assets/img/Icons/note.svg" alt="Logo Sarton" width="100" height="40" />
                 </a>
-                <span>máquinas</span>
+                <span>Eletrônicos</span>
             </div>
 
             <div className="div-icon d-flex flex-column justify-content-center align-items-center">
                 <a className="" href="/">
-                    <img src="./assets/img/logo.svg" alt="Logo Sarton" width="100" height="40" />
+                    <img src="./assets/img/Icons/cadeira.svg" alt="Logo Sarton" width="100" height="40" />
                 </a>
-                <span>imóveis</span>
+                <span>Mobília</span>
             </div>
 
             <div className="div-icon d-flex flex-column justify-content-center align-items-center">
                 <a className="" href="/">
-                    <img src="./assets/img/logo.svg" alt="Logo Sarton" width="100" height="40" />
-                </a>
-                <span>computadores</span>
-            </div>
-
-            <div className="div-icon d-flex flex-column justify-content-center align-items-center">
-                <a className="" href="/">
-                    <img src="./assets/img/logo.svg" alt="Logo Sarton" width="100" height="40" />
+                    <img src="./assets/img/Icons/carro.svg" alt="Logo Sarton" width="100" height="40" />
                 </a>
                 <span>veículos</span>
             </div>

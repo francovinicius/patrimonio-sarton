@@ -5,13 +5,14 @@
 }
 
 .div-icon>a {
-    padding: 1rem .5rem;
+    padding: .6rem .3rem;
     border-radius: 50%;
-    background: #27373f;
+    background: #679eb9e7;
 }
 
 .div-icon img {
-    width: 5rem;
+    width: 6rem;
+    height: 4rem;
 }
 
 .div-icon span {
