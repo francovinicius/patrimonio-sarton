@@ -2,6 +2,7 @@
     flex-wrap: wrap;
     width: 100%;
     gap: 15px;
+    margin-bottom: 5rem;
 }
 
 .div-icon>a {
