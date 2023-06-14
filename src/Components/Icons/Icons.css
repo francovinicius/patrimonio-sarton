@@ -30,13 +30,13 @@
 
 .div-icon>a:hover {
     background: #2a3e47;
-    transition: 1s;
+    transition: .3s;
     box-shadow: 2px 2px 0 2px #080c0e;
 }
 
 .div-icon img:hover {
     transform: scale(1.1);
-    transition: 1s;
+    transition: .2s;
 }
 
 .div-icon>a:active {
