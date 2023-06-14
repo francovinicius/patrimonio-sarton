@@ -25,7 +25,7 @@ export default function Icons() {
                     <a className="" href="/">
                         <img src="./assets/img/Icons/carro.svg" alt="Logo Sarton" width="100" height="40" />
                     </a>
-                    <span>veículos</span>
+                    <span>Veículos</span>
                 </div>
 
             </div>
