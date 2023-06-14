@@ -1,0 +1,18 @@
+.div-eletronics {
+    margin: 5rem 0;
+}
+
+.card {
+    width: 13rem;
+    height: 15rem;
+}
+
+.card img {
+    width: 10rem;
+}
+
+.btn-color-blue {
+    background: #679eb9e7;
+    color: aliceblue;
+    font-weight: 700;
+}

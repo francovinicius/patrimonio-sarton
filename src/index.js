@@ -8,6 +8,7 @@ import Contacts from "./Components/Contacts";
 import Footer from "./Components/Footer";
 import Icons from "./Components/Icons";
 import Category from "./Components/Category";
+import Eletronics from "./Components/Eletronics";
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -19,6 +20,7 @@ root.render(
     
     <Routes>
         <Route path="/" element={<Category/>}/>
+        <Route path="/eletronicos" element={<Eletronics />}/>
     </Routes>
 
     <Contacts />
