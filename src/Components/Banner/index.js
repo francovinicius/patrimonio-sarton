@@ -11,13 +11,13 @@ export default function Banner() {
                 </div>
                 <div className="carousel-inner">
                     <div className="carousel-item active">
-                        <img src=".\assets\img\banner\banner-3.svg" className="d-block w-100" alt="..."/>
+                        <img src=".\assets\img\banner\banner-1.svg" className="d-block w-100" alt="..."/>
                     </div>
                     <div className="carousel-item">
-                        <img src=".\assets\img\banner\banner-3.svg" className="d-block w-100" alt="..."/>
+                        <img src=".\assets\img\banner\banner-1.svg" className="d-block w-100" alt="..."/>
                     </div>
                     <div className="carousel-item">
-                        <img src=".\assets\img\banner\banner-3.svg" className="d-block w-100" alt="..."/>
+                        <img src=".\assets\img\banner\banner-1.svg" className="d-block w-100" alt="..."/>
                     </div>
                 </div>
                 <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
