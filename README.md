@@ -1,5 +1,4 @@
-# Cadastros de funcionários por empresa
-
+# Patrimonio Sarton
 Este projeto visa a criação de cards dos funcionários separando-os por empresa. Foi criado utilizando ReactJS, HTML, CSS e JavaScript.
 
 ## Tecnologias utilizadas
